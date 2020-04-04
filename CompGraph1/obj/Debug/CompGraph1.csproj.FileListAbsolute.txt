@@ -1,0 +1,10 @@
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\bin\Debug\CompGraph1.exe.config
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\bin\Debug\CompGraph1.exe
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\bin\Debug\CompGraph1.pdb
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.csprojAssemblyReference.cache
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.Form1.resources
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.Properties.Resources.resources
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.csproj.GenerateResource.cache
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.csproj.CoreCompileInputs.cache
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.exe
+C:\Users\Алина\source\repos\CompGraph1\CompGraph1\obj\Debug\CompGraph1.pdb
